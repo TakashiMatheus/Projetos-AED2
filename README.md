@@ -10,5 +10,5 @@
 - Projeto 3: Envolvia a tradução de um alfabeto imaginário para Latim e decodificação da mensagem partindo do princípio que a mensagem em latim estava codificada e só era válida quando a palavra inicial era MENSAGEM. Para isso foi utilizada uma Tabela Hash, junto ao algoritmo de string matching Boyer-Moore, para achar as palavras requisitadas e ter como saída a quantidade de saltos feitos e a localização que foi achada a string, que está entre parêntesis
 ![image](https://github.com/user-attachments/assets/564292ee-910e-4d88-855e-f0aca2f98174)
 - Ex entrada:
-![image](https://github.com/user-attachments/assets/c306d1b4-9dc4-48f4-8598-e44df6d3496c)
+-![image](https://github.com/user-attachments/assets/c306d1b4-9dc4-48f4-8598-e44df6d3496c)
 
